@@ -2,6 +2,9 @@
  <a>
   <img src="https://github.com/niltoneapontes/gobarber/blob/master/gobarberLogo.svg" alt="gobarber logo" />
  </a>
+</p>
+
+<p align="center">
  <a>
   <img src="https://img.shields.io/github/last-commit/niltoneapontes/gobarber" alt="Last commit badge" />
  </a>
