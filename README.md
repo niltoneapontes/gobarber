@@ -1,6 +1,6 @@
 # GoBarber
 
-barber GoBarber, principal aplicação desenvolvida durante o bootcamp GoStack da @Rocketseat.🚀
+💈 GoBarber, principal aplicação desenvolvida durante o bootcamp GoStack da @Rocketseat.🚀
 
 Abordando os principais conceitos e ferramentas associadas à stack reactJS + react-native + nodeJS, construímos uma aplicação que permite oferecer e agendar serviços de barbearia.
 
@@ -22,10 +22,9 @@ Em seguida:
 
 OBS.: Requisitos como git, node, entre outros estão implicitos a um projeto mobile com react-native.
 
-# Screenshots da aplicação
+# Apresentação da aplicação
 
+![Capa gobarber](https://github.com/niltoneapontes/gobarber/blob/master/gobarber.png)
 
-
---- 
 
 
