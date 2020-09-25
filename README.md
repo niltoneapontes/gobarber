@@ -22,10 +22,9 @@ Em seguida:
 
 OBS.: Requisitos como git, node, entre outros estão implicitos a um projeto mobile com react-native.
 
-# Screenshots da aplicação
+# Apresentação da aplicação
 
+https://github.com/niltoneapontes/gobarber/blob/master/gobarber.png
 
-
---- 
 
 
