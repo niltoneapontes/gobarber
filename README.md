@@ -24,7 +24,7 @@ OBS.: Requisitos como git, node, entre outros estão implicitos a um projeto mob
 
 # Apresentação da aplicação
 
-https://github.com/niltoneapontes/gobarber/blob/master/gobarber.png
+![Capa gobarber](https://github.com/niltoneapontes/gobarber/blob/master/gobarber.png)
 
 
 
