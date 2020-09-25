@@ -1,12 +1,22 @@
 # GoBarber
 
-<center>
-![GitHub last commit](https://img.shields.io/github/last-commit/niltoneapontes/gobarber)
-![GitHub language count](https://img.shields.io/github/languages/count/niltoneapontes/gobarber)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/niltoneapontes/gobarber)
-![GitHub Repo stars](https://img.shields.io/github/stars/niltoneapontes/gobarber?style=social)
-![GitHub followers](https://img.shields.io/github/followers/niltoneapontes?style=social)
-</center>
+<p align="center">
+ <a>
+  <img src="https://img.shields.io/github/last-commit/niltoneapontes/gobarber" alt="Last commit badge" />
+ </a>
+ <a>
+  <img src="https://img.shields.io/github/languages/count/niltoneapontes/gobarber" alt="Languages badge" />
+ </a>
+ <a>
+  <img src="https://img.shields.io/github/languages/code-size/niltoneapontes/gobarber" alt="Code size in bytes" />
+ </a>
+ <a>
+  <img src="https://img.shields.io/github/stars/niltoneapontes/gobarber?style=social" alt="Github repo stars" />
+ </a>
+ <a>
+  <img src="https://img.shields.io/github/followers/niltoneapontes?style=social" alt="Github followers" />
+ </a>
+</p>
 
 💈 GoBarber, principal aplicação desenvolvida durante o bootcamp GoStack da @Rocketseat.🚀
 
