@@ -1,4 +1,8 @@
-# GoBarber
+<p align="center">
+ <a>
+  <img src="https://github.com/niltoneapontes/gobarber/blob/master/gobarberLogo.svg" alt="gobarber logo" />
+ </a>
+</p>
 
 <p align="center">
  <a>
